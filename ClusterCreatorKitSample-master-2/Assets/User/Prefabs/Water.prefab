@@ -105,6 +105,14 @@ MonoBehaviour:
       boolValue: 0
       floatValue: 0
       integerValue: 0
+  - target: 3
+    specifiedTargetItem: {fileID: 0}
+    key: color
+    type: 0
+    value:
+      boolValue: 0
+      floatValue: 0
+      integerValue: 0
 --- !u!114 &5436370538103893762
 MonoBehaviour:
   m_ObjectHideFlags: 0

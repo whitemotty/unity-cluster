@@ -131,7 +131,6 @@ MonoBehaviour:
     target: 0
     key: drop
   space: {fileID: 4966570380266323573}
-  force: {x: 0, y: 0, z: 6}
   ignoreMass: 0
 --- !u!114 &3104731358328927616
 MonoBehaviour:
@@ -149,6 +148,7 @@ MonoBehaviour:
   key:
     target: 0
     key: destroy
+
 --- !u!1 &9026716484665063352
 GameObject:
   m_ObjectHideFlags: 0

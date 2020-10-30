@@ -99,7 +99,7 @@ MonoBehaviour:
   triggers:
   - target: 3
     specifiedTargetItem: {fileID: 0}
-    key: color
+    key: hit
     type: 0
     value:
       boolValue: 0

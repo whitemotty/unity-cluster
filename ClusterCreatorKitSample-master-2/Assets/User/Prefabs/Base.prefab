@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 5436370538103893762}
   - component: {fileID: 3104731358328927616}
   m_Layer: 0
-  m_Name: Water
+  m_Name: Base
   m_TagString: Water
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -100,7 +100,7 @@ MonoBehaviour:
   triggers:
   - target: 3
     specifiedTargetItem: {fileID: 0}
-    key: hit
+    key: hitbase
     type: 0
     value:
       boolValue: 0
